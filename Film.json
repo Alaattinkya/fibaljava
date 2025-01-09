@@ -1,0 +1,32 @@
+[
+  {
+    "ad": "Inception",
+    "sure": 148,
+    "tur": "Bilim Kurgu"
+  },
+  {
+    "ad": "Titanic",
+    "sure": 195,
+    "tur": "Romantik"
+  },
+  {
+    "ad": "The Dark Knight",
+    "sure": 152,
+    "tur": "Aksiyon"
+  },
+  {
+    "ad": "Interstellar",
+    "sure": 169,
+    "tur": "Bilim Kurgu"
+  },
+  {
+    "ad": "Forrest Gump",
+    "sure": 142,
+    "tur": "Dram"
+  },
+  {
+    "ad": "Avengers: Endgame",
+    "sure": 181,
+    "tur": "Aksiyon"
+  }
+]
