@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "name": "Salon 1",
+    "film": {
+      "ad": "Inception",
+      "sure": 148,
+      "tur": "Bilim Kurgu"
+    },
+    "musteriler": [
+      {
+        "id": 1,
+        "name": "Ali"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Salon 2",
+    "film": {
+      "ad": "Titanic",
+      "sure": 195,
+      "tur": "Romantik"
+    },
+    "musteriler": []
+  },
+  {
+    "id": 3,
+    "name": "Salon 3",
+    "film": {
+      "ad": "The Dark Knight",
+      "sure": 152,
+      "tur": "Aksiyon"
+    },
+    "musteriler": []
+  },
+  {
+    "id": 4,
+    "name": "Salon 4",
+    "film": {
+      "ad": "Interstellar",
+      "sure": 169,
+      "tur": "Bilim Kurgu"
+    },
+    "musteriler": []
+  },
+  {
+    "id": 5,
+    "name": "Salon 5",
+    "film": {
+      "ad": "Forrest Gump",
+      "sure": 142,
+      "tur": "Dram"
+    },
+    "musteriler": []
+  },
+  {
+    "id": 6,
+    "name": "Salon 6",
+    "film": {
+      "ad": "Avengers: Endgame",
+      "sure": 181,
+      "tur": "Aksiyon"
+    },
+    "musteriler": []
+  }
+]
